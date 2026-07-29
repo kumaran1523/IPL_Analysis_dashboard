@@ -38,7 +38,7 @@ The **IPL Analysis Dashboard** is designed to transform raw IPL match data into 
 > Replace the image below with your dashboard screenshot.
 
 <p align="center">
-  <img src="Dashboard.png" alt="IPL Dashboard" width="100%">
+  <img src="IPL_Analysis_Dashboard.png" alt="IPL Dashboard" width="100%">
 </p>
 
 ---
